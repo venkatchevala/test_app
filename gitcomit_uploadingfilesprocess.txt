@@ -1,0 +1,35 @@
+ github.com
+------------
+1)Create Accuont in github
+2)Create Repository
+
+* Command through upload files  :
+--------------------------------
+1)git SCM -install
+
+2)git bash -open
+
+3)git clone Url -->ex:http://github.com/venkat/abc.git
+            ---
+4)import this project to your IDE
+
+5)git status -->show all modified files
+
+6)git checkout -b "modified file name" --> you can give any your new owen file name
+		   -------------------                           --- 
+7)git add file name --> give your modifing exact file name mention
+          --------- 
+8)git commit -m "modified commit name"--> you can give any commited realating comment
+                 --------------------
+9)git push origin modified file name --> you can give new modifing file name.
+         	  ------------------                  ---
+
+
+*second file uploading github approch is..
+
+*github desktop through uploading files:
+----------------------------------------
+1)save the files inside folder in the desktop.github.io.
+
+2)drag and drop the files.
+
